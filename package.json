@@ -1,6 +1,6 @@
 {
   "name": "diceroller-js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "DiceRollerJS: A lightweight JavaScript library for seamless dice rolling in games, simulations, and apps. Easy-to-use and customizable.",
   "main": "index.js",
   "scripts": {
