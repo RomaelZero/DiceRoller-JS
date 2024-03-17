@@ -1,0 +1,18 @@
+{
+  "name": "diceroller-js",
+  "version": "1.0.0",
+  "description": "DiceRollerJS: A lightweight JavaScript library for seamless dice rolling in games, simulations, and apps. Easy-to-use and customizable.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/RomaelZero/DiceRoller-JS.git)"
+  },
+  "keywords": [
+    "diceroll"
+  ],
+  "author": "RomaelZero",
+  "license": "ISC"
+}
