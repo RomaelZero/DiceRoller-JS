@@ -3,7 +3,7 @@ DiceRollerJS: A lightweight JavaScript library for seamless dice rolling in game
 How to use it ? 
 There are 3 methods available singleDiceRoll,multiRollAsArray and multiRollAsObject.
 
-const { singleDiceRoll, multiRollAsArray and multiRollAsObject } = require("@romaelzero/diceroller-js");
+const { singleDiceRoll, multiRollAsArray, multiRollAsObject } = require("@romaelzero/diceroller-js");
 
 
 1.) singleDiceRoll when called will give you numbers from 1 to 6, just like a traditional dice.
